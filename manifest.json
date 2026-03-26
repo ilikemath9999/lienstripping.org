@@ -1,7 +1,6 @@
-{
-  "name": "Lien Stripping in Bankruptcy -- Remove Junior Liens",
+{"name": "Lien Stripping in Bankruptcy",
   "short_name": "lienstripping.org",
-  "description": "Free guide to lien stripping in bankruptcy under Section 506(a). Learn how Chapter 13 can remove second mortgages, junior liens, and underwater secured claims from your property.",
+  "description": "Section 506 cramdown and junior lien strip procedures",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
