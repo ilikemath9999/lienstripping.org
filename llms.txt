@@ -1,17 +1,16 @@
 # lienstripping.org
 
-> Lien Stripping in Bankruptcy | lienstripping.org
+> Guide to lien stripping and lien avoidance in bankruptcy.
 
-Section 506 cramdown and junior lien strip procedures
+lienstripping.org is a free, open-source educational resource about removing liens through bankruptcy. Part of the Bankruptcy Transparency Network.
 
-This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data.
+## Pages
 
-## Related Sites
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform
-- https://bankruptcymill.org -- Bankruptcy mill detection
-- https://serialfiler.org -- Serial filing restrictions
-- https://dischargebar.org -- Discharge waiting periods
+- https://lienstripping.org/: Overview of lien stripping in bankruptcy
+- https://lienstripping.org/lien-stripping.html: Lien stripping in Chapter 13 -- removing junior mortgages
+- https://lienstripping.org/lien-avoidance.html: Lien avoidance under Section 522(f) -- judicial liens and nonpossessory security interests
+- https://lienstripping.org/cramdown.html: Cramdown -- reducing secured debt to collateral value
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+
+This site is maintained by volunteers. No legal advice is provided.
