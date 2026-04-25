@@ -17,20 +17,20 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>How Lien Stripping Works in Chapter 13 Bankruptcy - Step by Step - Lienstripping</title>
-<meta content="Learn about how lien stripping works in chapter 13 bankruptcy - step by step | lienstripping.org in our free 2026 guide." name="description"/>
-<meta content="lien stripping chapter 13 step by step, how does lien stripping work, strip lien bankruptcy, 506(a), wholly unsecured, lien stripping process" name="keywords"/>
-<link href="https://lienstripping.org/how-it-works.html" rel="canonical"/>
+<title>Strip Your Second Mortgage in Chapter 13 - The Complete Guide - Lienstripping</title>
+<meta content="Learn about strip your second mortgage in chapter 13 - the complete guide | lienstripping.org in our free 2026 guide." name="description"/>
+<meta content="strip second mortgage chapter 13 underwater, second mortgage bankruptcy, HELOC lien strip, underwater home bankruptcy, remove second mortgage" name="keywords"/>
+<link href="https://lienstripping.org/second-mortgage.html" rel="canonical"/>
 <!-- Open Graph -->
-<meta content="How Lien Stripping Works in Chapter 13 Bankruptcy - Step by Step - Lienstripping" property="og:title"/>
-<meta content="Learn about how lien stripping works in chapter 13 bankruptcy - step by step | lienstripping.org in our free 2026 guide." property="og:description"/>
+<meta content="Strip Your Second Mortgage in Chapter 13 - The Complete Guide - Lienstripping" property="og:title"/>
+<meta content="Learn about strip your second mortgage in chapter 13 - the complete guide | lienstripping.org in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://lienstripping.org/how-it-works.html" property="og:url"/>
+<meta content="https://lienstripping.org/second-mortgage.html" property="og:url"/>
 <meta content="lienstripping.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="How Lien Stripping Works in Chapter 13 Bankruptcy - Step by Step - Lienstripping" name="twitter:title"/>
-<meta content="Learn about how lien stripping works in chapter 13 bankruptcy - step by step | lienstripping.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Strip Your Second Mortgage in Chapter 13 - The Complete Guide - Lienstripping" name="twitter:title"/>
+<meta content="Learn about strip your second mortgage in chapter 13 - the complete guide | lienstripping.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://lienstripping.org/og-image.svg" property="og:image"/>
 <meta content="https://lienstripping.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -88,9 +88,6 @@
   .highlight-box.success { border-left-color: var(--green); }
   .highlight-box p { margin-bottom: 0.5rem; }
   .highlight-box p:last-child { margin-bottom: 0; }
-  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
-  .green-box p { margin-bottom: 0.5rem; }
-  .green-box p:last-child { margin-bottom: 0; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -123,7 +120,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lienstripping.org/" },
-    { "@type": "ListItem", "position": 2, "name": "How Lien Stripping Works", "item": "https://lienstripping.org/how-it-works.html" }
+    { "@type": "ListItem", "position": 2, "name": "Strip Your Second Mortgage", "item": "https://lienstripping.org/second-mortgage.html" }
   ]
 }
 </script>
@@ -134,34 +131,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How does lien stripping work?",
+      "name": "Can I strip my second mortgage in bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lien stripping removes a wholly unsecured junior lien from your property through Chapter 13 bankruptcy. Under Section 506(a), if the balance on your first mortgage exceeds the property's market value, any junior lien (second mortgage, HELOC) is considered wholly unsecured. You file a motion to value the lien, treat it as unsecured in your plan, complete the plan, and upon discharge the lien is voided."
+        "text": "Yes, if your home is underwater - meaning the balance on your first mortgage exceeds the current market value of the home. In Chapter 13, a wholly unsecured second mortgage can be stripped off and treated as unsecured debt. You must complete the Chapter 13 plan to make the strip permanent."
       }
     },
     {
       "@type": "Question",
-      "name": "When is the lien actually removed?",
+      "name": "What does underwater mean for lien stripping?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The lien is not actually stripped until you receive your Chapter 13 discharge - which happens after you complete all plan payments over 3 to 5 years. If the case is dismissed before discharge, the lien survives in full force. The court order during the case determines the lien is wholly unsecured, but the actual voiding of the lien occurs only upon discharge."
+        "text": "Underwater means the balance owed on the first mortgage is greater than or equal to the home's current fair market value. When this is the case, there is no equity left for the second mortgage to attach to, making it wholly unsecured and eligible for lien stripping."
       }
     },
     {
       "@type": "Question",
-      "name": "What if the bank disagrees with the property value?",
+      "name": "Can I strip a HELOC?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The lien holder can object to your proposed valuation. If they do, the court will hold a hearing where both sides present evidence. You might present an appraisal, broker price opinion, or comparable sales. The bank may present its own appraisal. The court makes the final determination. In some cases, the court may order an independent appraisal."
+        "text": "Yes. A home equity line of credit (HELOC) is a junior lien, just like a second mortgage. If the HELOC is wholly unsecured because the first mortgage balance exceeds the property value, the HELOC can be stripped in Chapter 13 under the same rules that apply to second mortgages."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I strip a lien in Chapter 7?",
+      "name": "What if my home value increases during the plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The Supreme Court held in Dewsnup v. Timm (1992) that Section 506(d) cannot be used to strip liens in Chapter 7. This was confirmed for wholly unsecured liens in Bank of America v. Caulkett (2015). Lien stripping is only available in Chapter 13 (and in some circuits, Chapter 11 Sub V)."
+        "text": "The valuation date for lien stripping purposes is the petition date (the date you filed for bankruptcy). If property values increase during your 3-to-5-year Chapter 13 plan, the lien strip still holds. The junior lien was wholly unsecured on the petition date, and that determination does not change based on subsequent market movements."
       }
     }
   ]
@@ -176,8 +173,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "How Lien Stripping Works in Chapter 13 - Step by Step",
-      "description": "Step-by-step guide to lien stripping in Chapter 13 bankruptcy. Learn how Section 506(a) determines secured status, the wholly unsecured requirement, valuation d",
+      "headline": "Strip Your Second Mortgage in Chapter 13",
+      "description": "How to strip a second mortgage or HELOC in Chapter 13 bankruptcy when your home is underwater. Requirements, examples, and what happens after the lien is stripp",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -189,68 +186,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://lienstripping.org/how-it-works.html"
+      "mainEntityOfPage": "https://lienstripping.org/second-mortgage.html"
     },
     {
       "@type": "HowTo",
-      "name": "How Lien Stripping Works in Chapter 13 - Step by Step",
+      "name": "Strip Your Second Mortgage in Chapter 13",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nHow Lien Stripping Works in Chapter 13 Bankruptc"
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nStrip Your Second Mortgage in Chapter 13 - The "
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "Broker price opinion (BPO) - A real estate agent provides an estimate based on comparable sales. Less expensive than a full appraisal and accepted by many courts."
+          "text": "Get your first mortgage payoff balance. Call your mortgage servicer and request a payoff statement. The payoff amount includes the principal balance plus accrued interest and fees. This is different f"
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "Comparable sales analysis - Your attorney compiles recent sales of similar properties in your area. This can be effective but may be challenged by the lien holder."
+          "text": "Compare the two numbers. If the payoff balance exceeds the property value, you are underwater and lien stripping may be available."
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "Online estimates - Zillow Zestimates and similar tools. These are generally considered weaker evidence, but some courts accept them as a starting point."
+          "text": "You must file Chapter 13. Lien stripping is not available in Chapter 7. See Dewsnup v. Timm, 502 U.S. 410 (1992), and Bank of America v. Caulkett, 575 U.S. 790 (2015). Some circuits allow lien strippi"
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "Motion to determine secured status - The most common name"
+          "text": "The property must be your principal residence. The anti-modification clause of Section 1322(b)(2) only protects liens that are actually secured by the residence. If the junior lien is wholly unsecured"
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "Motion to value lien - Used in many jurisdictions"
+          "text": "The junior lien must be WHOLLY unsecured. The first mortgage balance must exceed the property's current market value as of the petition date. If even $1 of equity reaches the junior lien, it cannot be"
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "Motion to strip lien - A more informal but widely understood term"
+          "text": "You must complete the plan. The lien is not stripped until you receive your Chapter 13 discharge after completing all plan payments (3 to 5 years)."
         },
         {
           "@type": "HowToStep",
           "position": 8,
-          "text": "Adversary proceeding - Some courts require a full adversary proceeding (a separate lawsuit within the bankruptcy) rather than a simple motion"
+          "text": "The second mortgage holder receives whatever percentage the plan pays to unsecured creditors. This might be 100%, 50%, 10%, or even 0%, depending on the debtor's disposable income and plan structure."
         },
         {
           "@type": "HowToStep",
           "position": 9,
-          "text": "Filing the motion: You file the motion to value/strip the lien. This starts the process but does not remove the lien."
+          "text": "The second mortgage holder no longer has a lien on the property. The claim is unsecured - period."
         },
         {
           "@type": "HowToStep",
           "position": 10,
-          "text": "Court order: The court enters an order determining the junior lien is wholly unsecured. This reclassifies the claim but does not yet void the lien."
+          "text": "Upon discharge, any unpaid portion of the unsecured claim is discharged. The lien is voided permanently."
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "How Lien Stripping Works in Chapter 13 - Step by Step",
-      "url": "https://lienstripping.org/how-it-works.html",
+      "name": "Strip Your Second Mortgage in Chapter 13",
+      "url": "https://lienstripping.org/second-mortgage.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -264,29 +261,8 @@
   ]
 }
 </script>
-<link href="https://lienstripping.org/how-it-works.html" hreflang="en" rel="alternate"/>
-<link href="https://lienstripping.org/how-it-works-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://lienstripping.org/second-mortgage.html" hreflang="en" rel="alternate"/>
+<link href="https://lienstripping.org/second-mortgage-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -295,126 +271,113 @@
 <button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
 <div class="nav-links">
 <a href="/">Home</a>
-<a class="active" href="/lien-stripping.html">How It Works</a>
+<a href="/lien-stripping.html">How It Works</a>
 <a href="/lien-avoidance.html">Lien Avoidance</a>
 <a href="/cramdown.html">Cramdown</a>
-<a href="/second-mortgage.html">2nd Mortgage</a>
+<a class="active" href="/second-mortgage.html">2nd Mortgage</a>
 <a href="/eligibility.html">Eligibility</a>
 <a href="/case-law.html">Case Law</a>
 </div>
 </nav>
 <header>
-<h1>How <span class="accent">Lien Stripping</span> Works in Chapter 13 - Step by Step</h1>
-<p class="subtitle">The complete process for removing a wholly unsecured junior lien from your property through Chapter 13 bankruptcy.</p>
+<h1>Strip Your <span class="accent">Second Mortgage</span> in Chapter 13</h1>
+<p class="subtitle">The complete guide to eliminating a second mortgage or HELOC when your home is underwater.</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="/">Home</a> › How Lien Stripping Works
+<a href="/">Home</a> › Strip Your Second Mortgage
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>What Lien Stripping Does</h2>
-<p>Lien stripping removes a wholly unsecured junior lien from your property through <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy. It is one of the most powerful tools available to homeowners who owe more on their first mortgage than their home is currently worth.</p>
-<p>The legal foundation is <a href="https://www.law.cornell.edu/uscode/text/11/506">11 U.S.C. Section 506(a)</a>, which determines secured status based on the value of the collateral. If the balance on the senior mortgage exceeds the property's current market value, there is no equity left for the junior lien to attach to. That junior lien - whether a second mortgage, home equity line of credit (HELOC), or third mortgage - is classified as wholly unsecured.</p>
-<p>Once a junior lien is determined to be wholly unsecured, it can be "stripped off" the property. The debt is reclassified as unsecured in the <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>, and upon <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, the lien is voided entirely. The homeowner keeps the home free of that junior lien.</p>
+<h2>The Most Common Use of Lien Stripping</h2>
+<p>The most frequent application of lien stripping in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> bankruptcy is removing a second mortgage or home equity line of credit (HELOC) from an underwater home. If you took out a second mortgage or HELOC during a period of rising home values, and those values have since declined, you may owe more on your first mortgage alone than the home is currently worth.</p>
+<p>When this happens, the second mortgage has no equity to attach to. Under <a href="https://www.law.cornell.edu/uscode/text/11/506">11 U.S.C. Section 506(a)</a>, the second mortgage is classified as wholly unsecured - meaning it has zero secured value. In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, a wholly unsecured junior lien can be "stripped off" the property entirely.</p>
+<p>This is not a small matter. Second mortgages and HELOCs commonly range from $20,000 to $100,000 or more. Eliminating that lien can mean the difference between keeping your home and losing it, or between a manageable debt load and an impossible one.</p>
+</div>
+<div class="content-section">
+<h2>What "Underwater" Means</h2>
+<p>"Underwater" (also called "upside down" or "negative equity") means the balance owed on the first mortgage exceeds the current fair market value of the home. When this is the case, there is literally no equity in the home for a junior lien to attach to.</p>
 <div class="highlight-box success">
-<p><strong>The core principle:</strong> A secured claim is only secured to the extent of the value of the collateral. If the collateral is already fully encumbered by the first mortgage, the second mortgage has zero secured value - and can be eliminated through lien stripping.</p>
+<p><strong>Example:</strong> Your home is currently worth $200,000. You owe $210,000 on your first mortgage. You also have a $50,000 second mortgage. Because the first mortgage ($210,000) exceeds the home value ($200,000), the second mortgage is wholly unsecured. In Chapter 13, the entire $50,000 second mortgage can be stripped and treated as general <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>.</p>
 </div>
-</div>
-<div class="content-section">
-<h2>The Step-by-Step Process</h2>
-<p>Lien stripping follows a specific sequence. Understanding each step helps you know what to expect and how to prepare.</p>
-<h3>Step 1: Determine Your Property's Current Market Value</h3>
-<p>The first and most critical step is establishing what your home is worth right now. This is the foundation of the entire lien stripping analysis. If the property value is less than or equal to the first mortgage balance, lien stripping may be available.</p>
-<p>Common methods for establishing property value include:</p>
-<ul>
-<li><strong>Formal appraisal</strong> - The gold standard. A licensed appraiser inspects the property and prepares a written report. This is the strongest evidence in court but also the most expensive (typically $300 to $500).</li>
-<li><strong>Broker price opinion (BPO)</strong> - A real estate agent provides an estimate based on comparable sales. Less expensive than a full appraisal and accepted by many courts.</li>
-<li><strong>Comparable sales analysis</strong> - Your attorney compiles recent sales of similar properties in your area. This can be effective but may be challenged by the lien holder.</li>
-<li><strong>Online estimates</strong> - Zillow Zestimates and similar tools. These are generally considered weaker evidence, but some courts accept them as a starting point.</li>
-</ul>
-<p>The relevant date for valuation is typically the date you filed your bankruptcy petition. Some courts use the date of the lien stripping hearing instead. Check your local court's practice.</p>
-<h3>Step 2: Determine Your First Mortgage Balance</h3>
-<p>Pull your most recent mortgage statement to determine the exact payoff balance on your first mortgage. This includes the principal balance, accrued interest, and any fees. The payoff amount - not the monthly statement balance - is what matters.</p>
-<p>If you have a mortgage that has been modified, the modified balance is what counts. If you are in arrears, the total amount owed (including arrears) is the relevant figure.</p>
-<h3>Step 3: Compare - Is the Junior Lien Wholly Unsecured?</h3>
-<p>This is the critical comparison. If the first mortgage balance is greater than or equal to the property's current market value, the junior lien is wholly unsecured and can be stripped.</p>
-<div class="highlight-box success">
-<p><strong>Example:</strong> Your home is worth $185,000. Your first mortgage balance is $192,000. Because $192,000 exceeds $185,000, your second mortgage (say, $45,000) is wholly unsecured. It can be stripped.</p>
-</div>
-<div class="highlight-box warning">
-<p><strong>Counter-example:</strong> Your home is worth $200,000. Your first mortgage balance is $198,000. There is $2,000 of equity reaching the second mortgage. Because the second mortgage is not wholly unsecured - it has $2,000 of secured value - lien stripping is NOT available. Even $1 of equity reaching the junior lien defeats lien stripping.</p>
-</div>
-<h3>Step 4: File the Motion to Value or Strip the Lien</h3>
-<p>Assuming the junior lien is wholly unsecured, the next step is filing a motion with the bankruptcy court. Different courts call this different things:</p>
-<ul>
-<li><strong>Motion to determine secured status</strong> - The most common name</li>
-<li><strong>Motion to value lien</strong> - Used in many jurisdictions</li>
-<li><strong>Motion to strip lien</strong> - A more informal but widely understood term</li>
-<li><strong>Adversary proceeding</strong> - Some courts require a full adversary proceeding (a separate lawsuit within the bankruptcy) rather than a simple motion</li>
-</ul>
-<p>The motion must include evidence of the property's value and the first mortgage balance, and it must demonstrate that the junior lien is wholly unsecured. Your local court may have a specific form or format requirement.</p>
-<h3>Step 5: Treat the Junior Lien as Unsecured in the Plan</h3>
-<p>Your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> should propose to treat the junior lien holder's claim as a general unsecured claim. This means the lien holder receives whatever percentage the plan pays to unsecured creditors. In many cases, this is pennies on the dollar. In some plans, unsecured creditors receive nothing (a "zero percent plan").</p>
-<p>The plan must still meet all other <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> requirements, including the best-interests-of-creditors test and the disposable income test. The lien strip itself does not change these requirements.</p>
-<h3>Step 6: Complete the Plan</h3>
-<p>You must complete all payments under your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>. This takes 3 to 5 years depending on your income level and the plan terms. During this time, the junior lien technically still exists - it has been determined to be unsecured, but the actual lien removal happens only upon <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
-<p>This is a critical point that many people miss: <strong>the lien is not stripped until you get your discharge</strong>. If your case is dismissed before you finish the plan, the lien survives in full force. The 3-to-5-year commitment is the price of lien stripping.</p>
-<h3>Step 7: Discharge - The Lien Is Voided</h3>
-<p>Upon successful completion of the plan and entry of the Chapter 13 discharge, the junior lien is voided by operation of law. The combination of the court's order determining the lien to be wholly unsecured and the discharge order together eliminate the lien.</p>
-<p>After discharge, you should take steps to clear the lien from your property records. This may involve recording a certified copy of the court's order with your county recorder's office. Some courts enter a separate order specifically voiding the lien, which simplifies the recording process.</p>
-</div>
-<div class="content-section">
-<h2>The "Wholly Unsecured" Requirement</h2>
-<p>This is the single most important legal concept in lien stripping: the junior lien must be <strong>wholly unsecured</strong>. Not partially unsecured. Not mostly unsecured. Wholly unsecured.</p>
-<p>If the property is worth even $1 more than the first mortgage balance, the junior lien has $1 of secured value. In most circuits, that $1 of equity reaching the junior lien makes lien stripping unavailable. The junior lien holder would retain its lien for the full amount of its claim (subject to the property's value), and the debtor cannot strip it.</p>
-<p>This all-or-nothing rule comes from the interplay between <a href="https://www.law.cornell.edu/uscode/text/11/506">Section 506(a)</a> (which determines secured status) and <a href="https://www.law.cornell.edu/uscode/text/11/1322">Section 1322(b)(2)</a> (the anti-modification clause that protects home mortgage holders). The Supreme Court addressed this in <em>Nobelman v. American Savings Bank</em>, 508 U.S. 324 (1993), holding that the anti-modification clause protects liens that are secured by the debtor's principal residence - but only if the lien actually has secured value. A wholly unsecured junior lien is not "secured by" the residence, so the anti-modification clause does not protect it.</p>
-<p>The practical implication: accurate property valuation is everything. A few thousand dollars in either direction can make the difference between stripping a $50,000 second mortgage and being stuck with it.</p>
-</div>
-<div class="content-section">
-<h2>Timing: When Is the Lien Actually Removed?</h2>
-<p>One of the most common misunderstandings about lien stripping is when it actually takes effect. The timeline works like this:</p>
+<p>The key word is "wholly." If the property is worth $205,000 and the first mortgage is $200,000, there is $5,000 of equity reaching the second mortgage. In that case, the second mortgage is partially secured - and lien stripping is NOT available. It is an all-or-nothing rule.</p>
+<h3>How to Determine If You Are Underwater</h3>
 <ol>
-<li><strong>Filing the motion:</strong> You file the motion to value/strip the lien. This starts the process but does not remove the lien.</li>
-<li><strong>Court order:</strong> The court enters an order determining the junior lien is wholly unsecured. This reclassifies the claim but does not yet void the lien.</li>
-<li><strong>During the plan:</strong> The lien technically remains on the property records throughout the 3-to-5-year plan period. However, the lien holder is treated as an <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a>.</li>
-<li><strong>Discharge:</strong> Upon completion of the plan and entry of the discharge order, the lien is voided. This is the point at which lien stripping becomes permanent.</li>
+<li><strong>Get a current property valuation.</strong> A formal appraisal is strongest, but a broker price opinion or comparable sales analysis may suffice. Online estimates (Zillow, Redfin) are a starting point but generally considered weaker evidence in court.</li>
+<li><strong>Get your first mortgage payoff balance.</strong> Call your mortgage servicer and request a payoff statement. The payoff amount includes the principal balance plus accrued interest and fees. This is different from (and usually higher than) the balance shown on your monthly statement.</li>
+<li><strong>Compare the two numbers.</strong> If the payoff balance exceeds the property value, you are underwater and lien stripping may be available.</li>
 </ol>
-<div class="highlight-box warning">
-<p><strong>If the case is dismissed:</strong> The lien survives. Period. If you cannot complete your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> - whether due to job loss, illness, or any other reason - and the case is dismissed, the junior lien springs back to full force as though the bankruptcy never happened. This is why completing the plan is essential.</p>
-</div>
-<p>If the case is converted from Chapter 13 to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, the lien strip is also lost. <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> does not allow lien stripping (see <a href="/case-law.html">case law</a>), so converting the case means the junior lien survives.</p>
 </div>
 <div class="content-section">
-<h2>Valuation Disputes</h2>
-<p>The junior lien holder has every incentive to argue that the property is worth more than you claim. If they can show even $1 of equity reaching their lien, the strip fails. Expect pushback, especially on higher-value properties or when the margins are close.</p>
-<p>Common dispute scenarios include:</p>
+<h2>The HELOC Trap</h2>
+<p>Home equity lines of credit (HELOCs) are particularly common targets for lien stripping. During housing booms, lenders aggressively marketed HELOCs to homeowners, encouraging them to "tap into their home equity" for renovations, debt consolidation, or everyday expenses.</p>
+<p>When home values fell - whether in the 2008 housing crisis or in local market downturns since - many of those HELOCs became fully unsecured. The homeowner was left with a HELOC payment on a house that was already underwater on the first mortgage.</p>
+<p>For these homeowners, lien stripping in Chapter 13 provides a direct path to eliminating the HELOC. The HELOC is treated exactly like a second mortgage for lien stripping purposes: if the first mortgage balance exceeds the property value, the HELOC is wholly unsecured and can be stripped.</p>
+<div class="highlight-box">
+<p><strong>Variable-rate HELOCs:</strong> If your HELOC has a variable interest rate, the balance may be changing. For lien stripping purposes, what matters is the HELOC balance on the petition date. The interest rate is irrelevant because the HELOC is being reclassified as <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Requirements for Stripping a Second Mortgage</h2>
+<p>To strip a second mortgage or HELOC in Chapter 13, all of the following must be true:</p>
+<ol>
+<li><strong>You must file Chapter 13.</strong> Lien stripping is not available in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>. See <em>Dewsnup v. Timm</em>, 502 U.S. 410 (1992), and <em>Bank of America v. Caulkett</em>, 575 U.S. 790 (2015). Some circuits allow lien stripping in <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a> <a href="https://section1191.org/" title="Subchapter V">Sub V</a>.</li>
+<li><strong>The property must be your principal residence.</strong> The anti-modification clause of <a href="https://www.law.cornell.edu/uscode/text/11/1322">Section 1322(b)(2)</a> only protects liens that are actually secured by the residence. If the junior lien is wholly unsecured, the anti-modification clause does not apply - but the property must still be your home for the standard lien stripping analysis.</li>
+<li><strong>The junior lien must be WHOLLY unsecured.</strong> The first mortgage balance must exceed the property's current market value as of the petition date. If even $1 of equity reaches the junior lien, it cannot be stripped.</li>
+<li><strong>You must complete the plan.</strong> The lien is not stripped until you receive your Chapter 13 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> after completing all plan payments (3 to 5 years).</li>
+</ol>
+</div>
+<div class="content-section">
+<h2>What About Partial Stripping?</h2>
+<p>A question that comes up frequently: if the second mortgage is partially secured - say, $5,000 of equity reaches it out of a $50,000 balance - can you at least strip the unsecured portion?</p>
+<p>The answer is generally <strong>no</strong> for liens on your primary residence. This is because of Section 1322(b)(2), the anti-modification clause. Once any portion of the junior lien is secured by the debtor's principal residence, the entire claim is protected from modification. You cannot bifurcate (split) a partially secured home mortgage the way you can <a href="/cramdown.html">cramdown a car loan</a>.</p>
+<p>This creates a sharp cliff: the junior lien is either 100% stripped (if wholly unsecured) or 0% stripped (if any equity reaches it). There is no middle ground for primary residence mortgages.</p>
+<div class="highlight-box warning">
+<p><strong>Investment property exception:</strong> For mortgages on investment or rental properties, the anti-modification clause does NOT apply. A partially secured mortgage on investment property can be crammed down to the value of the equity, with the excess treated as unsecured. This makes the analysis for investment properties quite different from primary residences.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Post-Stripping: What Happens to the Debt</h2>
+<p>Once the court determines the second mortgage is wholly unsecured, the debt is treated as a general unsecured claim in the <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>. This means:</p>
 <ul>
-<li><strong>Competing appraisals:</strong> You present an appraisal showing the home is worth $190,000. The bank presents one showing $215,000. The court must weigh the evidence and may order an independent appraisal at your expense.</li>
-<li><strong>Condition disputes:</strong> The bank argues you understated the property's condition. Photographs and a detailed appraisal report help counter this.</li>
-<li><strong>Comparable selection:</strong> The two sides may pick different comparable sales. The court evaluates which comparables are more appropriate based on proximity, condition, and timing.</li>
-<li><strong>Market movement:</strong> If property values are rising, the bank may argue that recent sales show the market has moved above your appraisal date. Courts generally stick to the petition date valuation, but some allow hearing-date valuation.</li>
+<li>The second mortgage holder receives whatever percentage the plan pays to unsecured creditors. This might be 100%, 50%, 10%, or even 0%, depending on the debtor's disposable income and plan structure.</li>
+<li>The second mortgage holder no longer has a lien on the property. The claim is unsecured - period.</li>
+<li>Upon <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, any unpaid portion of the unsecured claim is discharged. The lien is voided permanently.</li>
 </ul>
-<p>The burden of proof is on the debtor to show the property value is less than the first mortgage balance. Come prepared with strong evidence. A formal appraisal from a licensed appraiser is worth the investment when tens of thousands of dollars in debt elimination are at stake.</p>
+<p>For the debtor, this means a second mortgage of $50,000 might cost them only $5,000 (in a 10% plan) over the life of the Chapter 13 case, instead of the full $50,000 plus interest. The savings can be enormous.</p>
+<h3>The Rebound Trap - Not Really a Trap</h3>
+<p>Some debtors worry: what if my home value increases during the 3-to-5-year plan? Does the lien come back?</p>
+<p>No. The valuation date is the petition date (the date you filed for bankruptcy). Once the court determines the junior lien is wholly unsecured based on the petition-date value, that determination stands for the remainder of the case. Property value increases during the plan do not change the analysis.</p>
+<p>This is actually a significant benefit. If you strip a second mortgage when your home is underwater, and then the market recovers during your plan, you get the benefit of the recovery - your home gains equity, and the stripped lien does not reattach. You come out of Chapter 13 with a more valuable home and one fewer lien on it.</p>
+</div>
+<div class="content-section">
+<h2>Practical Considerations</h2>
+<h3>Get a Current Appraisal</h3>
+<p>Do not rely solely on Zillow or online estimates. If you are going to court to strip a $50,000 lien, spending $300 to $500 on a formal appraisal is a sound investment. The appraisal provides the strongest evidence of property value and can withstand creditor challenges.</p>
+<h3>Check Local Court Requirements</h3>
+<p>Different bankruptcy courts have different procedures for lien stripping. Some require a simple motion. Others require an adversary proceeding (a separate lawsuit within the bankruptcy case). Your local court may have a specific form, specific notice requirements, or a preferred method of proving property value. Check the local rules or consult an attorney.</p>
+<h3>Timing Matters</h3>
+<p>If property values in your area are declining, filing sooner may make lien stripping easier (the home is further underwater). If values are rising, you may lose the opportunity to strip the lien if you wait too long. The petition-date valuation means every month of price appreciation could reduce your chances.</p>
+<h3>Multiple Junior Liens</h3>
+<p>If you have a second mortgage AND a third mortgage (or a HELOC in addition to a second mortgage), both can be stripped if both are wholly unsecured. The analysis is the same for each: if the total of all senior liens exceeds the property value, each junior lien is wholly unsecured.</p>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
-<h3>How does lien stripping work?</h3>
-<p>Lien stripping removes a wholly unsecured junior lien from your property through Chapter 13 bankruptcy. Under Section 506(a), if the balance on your first mortgage exceeds the property's market value, any junior lien is considered wholly unsecured. You file a motion, treat the debt as unsecured in your plan, complete the plan, and upon discharge the lien is voided permanently.</p>
-<h3>When is the lien actually removed?</h3>
-<p>The lien is not removed until you receive your Chapter 13 discharge - which occurs after you complete all plan payments over 3 to 5 years. During the plan, the court has ruled the lien is wholly unsecured, but the lien technically remains on the property records until discharge. If the case is dismissed before discharge, the lien survives.</p>
-<h3>What if the bank disagrees with the property value?</h3>
-<p>The bank (junior lien holder) can object to your proposed valuation. The court will hold a hearing where both sides present evidence - appraisals, comparable sales, condition reports. The court makes the final determination. If the values are close, the court may order an independent appraisal.</p>
-<h3>Can I strip a lien in Chapter 7?</h3>
-<p>No. The Supreme Court held in <em>Dewsnup v. Timm</em>, 502 U.S. 410 (1992), that Section 506(d) cannot be used to strip liens in Chapter 7. This was confirmed for wholly unsecured liens in <em>Bank of America v. Caulkett</em>, 575 U.S. 790 (2015). Lien stripping requires Chapter 13 (or in some circuits, <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a> <a href="https://section1191.org/" title="Subchapter V">Sub V</a>). See our <a href="/eligibility.html">eligibility page</a> and <a href="/case-law.html">case law page</a> for details.</p>
+<h3>Can I strip my second mortgage in bankruptcy?</h3>
+<p>Yes, if you file Chapter 13 and your home is underwater - meaning the first mortgage balance exceeds the current market value. The second mortgage must be wholly unsecured (no equity reaches it). You must complete the plan and receive a discharge for the strip to become permanent.</p>
+<h3>What does "underwater" mean for lien stripping?</h3>
+<p>Underwater means the first mortgage payoff balance is greater than or equal to the home's current fair market value. When this is the case, the second mortgage has zero secured value and is eligible for lien stripping.</p>
+<h3>Can I strip a HELOC?</h3>
+<p>Yes. A HELOC is a junior lien just like a second mortgage. If the HELOC is wholly unsecured because the first mortgage exceeds the property value, the HELOC can be stripped in Chapter 13.</p>
+<h3>What if my home value increases during the plan?</h3>
+<p>The valuation date is the petition date. If property values rise during your 3-to-5-year plan, the lien strip is unaffected. The determination that the junior lien was wholly unsecured on the petition date is final. You keep the benefit of any property value increase.</p>
 </div>
 <div class="content-section">
 <h2>Related Resources</h2>
 <ul>
-<li><a href="/lien-avoidance.html">Lien Avoidance Under Section 522(f)</a> - A different tool for removing judicial liens from <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exempt property</a></li>
-<li><a href="/second-mortgage.html">Strip Your Second Mortgage</a> - The most common application of lien stripping</li>
-<li><a href="/eligibility.html">Eligibility Requirements</a> - Who qualifies for lien stripping</li>
-<li><a href="https://chapter13plan.org/cramdown.html">Chapter 13 Cramdown</a> - Reducing secured debts to collateral value</li>
-<li><a href="https://relieffromstay.org">Relief from Stay</a> - What happens if a creditor tries to foreclose during your case</li>
+<li><a href="/how-it-works.html">How Lien Stripping Works - Step by Step</a> - The full process from start to finish</li>
+<li><a href="/after-chapter-13.html">After Chapter 13 Discharge</a> - What happens to the stripped lien after your case ends</li>
+<li><a href="https://chapter13plan.org">Chapter 13 Plans</a> - How Chapter 13 repayment plans work</li>
+<li><a href="https://relieffromstay.org">Relief from Stay</a> - Protection from foreclosure during your case</li>
 </ul>
 </div>
 <div class="cta-box">
@@ -486,6 +449,7 @@
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=lienstripping.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=lienstripping.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=lienstripping.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=lienstripping.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -506,7 +470,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).<br/>Last updated: March 2026.</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.<br/>Last updated: March 2026.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=lienstripping.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=lienstripping.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=lienstripping.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
